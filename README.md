@@ -1,0 +1,4 @@
+- 👋 Salut, je m'appelle Keizu
+- 👀 Je suis passioné par l'informatique et le dévloppement
+- 🌱 J'apprends actuellement le JS et le Lua
+- 📫 Pour me joindre ajouter moi sur discord : Keizu#6160
